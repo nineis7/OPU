@@ -1,0 +1,5 @@
+/ws/build/CMakeFiles/edit_cache.dir
+/ws/build/CMakeFiles/simulator.dir
+/ws/build/CMakeFiles/runTests.dir
+/ws/build/CMakeFiles/sim-json.dir
+/ws/build/CMakeFiles/rebuild_cache.dir

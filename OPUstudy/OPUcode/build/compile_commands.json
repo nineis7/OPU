@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/simulator.dir/src/driver.cc.o -c /ws/opu-sim/src/driver.cc",
+  "file": "/ws/opu-sim/src/driver.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/simulator.dir/src/instruction.cc.o -c /ws/opu-sim/src/instruction.cc",
+  "file": "/ws/opu-sim/src/instruction.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/simulator.dir/src/accelerator.cc.o -c /ws/opu-sim/src/accelerator.cc",
+  "file": "/ws/opu-sim/src/accelerator.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/simulator.dir/src/vmem.cc.o -c /ws/opu-sim/src/vmem.cc",
+  "file": "/ws/opu-sim/src/vmem.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/simulator.dir/src/profiler.cc.o -c /ws/opu-sim/src/profiler.cc",
+  "file": "/ws/opu-sim/src/profiler.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/runTests.dir/src/tests.cc.o -c /ws/opu-sim/src/tests.cc",
+  "file": "/ws/opu-sim/src/tests.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/runTests.dir/src/instruction.cc.o -c /ws/opu-sim/src/instruction.cc",
+  "file": "/ws/opu-sim/src/instruction.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/runTests.dir/src/accelerator.cc.o -c /ws/opu-sim/src/accelerator.cc",
+  "file": "/ws/opu-sim/src/accelerator.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/runTests.dir/src/vmem.cc.o -c /ws/opu-sim/src/vmem.cc",
+  "file": "/ws/opu-sim/src/vmem.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/runTests.dir/src/profiler.cc.o -c /ws/opu-sim/src/profiler.cc",
+  "file": "/ws/opu-sim/src/profiler.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/sim-json.dir/src/driver_json.cc.o -c /ws/opu-sim/src/driver_json.cc",
+  "file": "/ws/opu-sim/src/driver_json.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/sim-json.dir/src/instruction.cc.o -c /ws/opu-sim/src/instruction.cc",
+  "file": "/ws/opu-sim/src/instruction.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/sim-json.dir/src/accelerator.cc.o -c /ws/opu-sim/src/accelerator.cc",
+  "file": "/ws/opu-sim/src/accelerator.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/sim-json.dir/src/vmem.cc.o -c /ws/opu-sim/src/vmem.cc",
+  "file": "/ws/opu-sim/src/vmem.cc"
+},
+{
+  "directory": "/ws/build",
+  "command": "/usr/bin/g++    -I/ws/opu-sim/. -I/ws/opu-sim/3rdparty/json/single_include  --std=c++11 -g -g   -o CMakeFiles/sim-json.dir/src/profiler.cc.o -c /ws/opu-sim/src/profiler.cc",
+  "file": "/ws/opu-sim/src/profiler.cc"
+}
+]
