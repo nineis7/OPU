@@ -1,1 +1,0 @@
-/usr/bin/g++   --std=c++11 -g -g   CMakeFiles/simulator.dir/src/driver.cc.o CMakeFiles/simulator.dir/src/instruction.cc.o CMakeFiles/simulator.dir/src/accelerator.cc.o CMakeFiles/simulator.dir/src/vmem.cc.o CMakeFiles/simulator.dir/src/profiler.cc.o  -o simulator -rdynamic -lglog 

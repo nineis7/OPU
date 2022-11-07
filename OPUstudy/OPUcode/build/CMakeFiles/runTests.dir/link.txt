@@ -1,1 +1,0 @@
-/usr/bin/g++   --std=c++11 -g -g   CMakeFiles/runTests.dir/src/tests.cc.o CMakeFiles/runTests.dir/src/instruction.cc.o CMakeFiles/runTests.dir/src/accelerator.cc.o CMakeFiles/runTests.dir/src/vmem.cc.o CMakeFiles/runTests.dir/src/profiler.cc.o  -o runTests -rdynamic -Wl,-Bstatic -lgtest -Wl,-Bdynamic -lpthread -lglog 

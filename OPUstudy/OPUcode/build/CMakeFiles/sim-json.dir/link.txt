@@ -1,1 +1,0 @@
-/usr/bin/g++   --std=c++11 -g -g   CMakeFiles/sim-json.dir/src/driver_json.cc.o CMakeFiles/sim-json.dir/src/instruction.cc.o CMakeFiles/sim-json.dir/src/accelerator.cc.o CMakeFiles/sim-json.dir/src/vmem.cc.o CMakeFiles/sim-json.dir/src/profiler.cc.o  -o sim-json -rdynamic -lglog 
